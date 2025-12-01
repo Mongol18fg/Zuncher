@@ -48,6 +48,18 @@ But this may not be soon, because only one person from the team is currently eng
 
 ![Build Status](https://blob.gifcities.org/gifcities/6Q3RUN6QT3ZY75WFF6MB36RJQF63VO62.gif)
 
+## Supported Versions
+
+Our launcher supports the following versions:
+
+
+- <img src="https://example.com/image.jpg](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.dFreUqG7zRWT_PisvPXNawAAAA%3Fpid%3DApi&f=1&ipt=9a7941571a96be6e1ba4b96c12479b04c4aa7bdc0089657525a3e0973f61c4e9&ipo=images" width="300" height="200"> Classic 0.0.23a - 0.30
+- Alpha 1.0.0 - 1.2.6
+- Infdev 20100327 - 20100618
+- Beta 1.0 - 1.8.1
+- Beta 1.9 Prerelease 1-6
+- And also has the ability to run third-party builds!
+
 
 
 
