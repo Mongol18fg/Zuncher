@@ -53,12 +53,14 @@ But this may not be soon, because only one person from the team is currently eng
 Our launcher supports the following versions:
 
 
-- <img src="https://example.com/image.jpg](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.dFreUqG7zRWT_PisvPXNawAAAA%3Fpid%3DApi&f=1&ipt=9a7941571a96be6e1ba4b96c12479b04c4aa7bdc0089657525a3e0973f61c4e9&ipo=images" width="300" height="200"> Classic 0.0.23a - 0.30
-- Alpha 1.0.0 - 1.2.6
-- Infdev 20100327 - 20100618
-- Beta 1.0 - 1.8.1
-- Beta 1.9 Prerelease 1-6
-- And also has the ability to run third-party builds!
+- <img src="MarkDownFIles/img.jpeg" width="20" height="20"> Classic 0.0.23a - 0.30
+- <img src="MarkDownFIles/img.jpeg" width="20" height="20"> Alpha 1.0.0 - 1.2.6
+- <img src="MarkDownFIles/img.jpeg" width="20" height="20"> Infdev 20100327 - 20100618
+- <img src="MarkDownFIles/img.jpeg" width="20" height="20"> indev-ALL
+- <img src="MarkDownFIles/img1.jpeg" width="20" height="20"> Beta 1.0 - 1.8.1
+- <img src="MarkDownFIles/img1.jpeg" width="20" height="20"> Beta 1.9 Prerelease 1-6
+- <img src="MarkDownFIles/1642654501_9-abrakadabra-fun-p-blok-zemli-png-22-3895827805-Photoroom.png" width="20" height="20"> And also has the ability to run third-party builds!
+
 
 
 
